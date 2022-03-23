@@ -1,29 +1,25 @@
 {
-    "name": "zookeepr",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-        "test": "jest",
-        "start": "nodemon server.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/SophieQuan/zookeepr.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/SophieQuan/zookeepr/issues"
-    },
-    "homepage": "https://github.com/SophieQuan/zookeepr#readme",
-    "dependencies": {
-        "express": "^4.17.3",
-        "heroku": "^7.59.3",
-        "nodemon": "^2.0.15"
-    },
-    "devDependencies": {
-        "jest": "^27.5.1"
-    }
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unis434/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unis434/zookeepr/issues"
+  },
+  "homepage": "https://github.com/unis434/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.6.3"
+  }
 }
